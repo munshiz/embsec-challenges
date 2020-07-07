@@ -1,0 +1,2 @@
+intro_python - read_example: embsec{read_example_1025e1e8b75e4ff1}
+intro_python - write_example: embsec{write_example_167f4e7228b2a857}
