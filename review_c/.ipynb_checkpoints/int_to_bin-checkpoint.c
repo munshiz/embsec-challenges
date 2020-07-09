@@ -3,19 +3,25 @@
 #include "uart.h"
 
 void intToBin (uint8_t target, char* buffer) {
-    /* Your code goes here */
     int i;
-    for (i = 0; i <= 7; i++){
-        uint8_t temp;
-        char write;
-        temp = target >> (7-i);
-        temp = temp & 0x1;
-        if (temp == 1){
-            write = '1';  
-        } else {
+    for (i = 0, i <= 7, i++)
+    {
+       uint8_t temp;
+       char write;
+       temp = target >> (7-i);
+       temp = temp & 0x1;
+        
+       if (temp == 1){
+           write = '1';
+       }
+    
+        else{
             write = '0';
         }
+        
         buffer[i] = write;
+           
+        
     }
     buffer[8] = '\0';
 } 

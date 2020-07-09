@@ -7,3 +7,7 @@ review_python - flipping_integers: embsec{integer_flipping_d8bf5a5ad29efacb}
 protocol_lab - sending_data: embsec{sending_data_32a46296bd18a36b}
 protocol_lab - heartbeat: embsec{heartbeat_8ccfc6cf971c556a}
 protocol_lab - noise: embsec{noise_0cc41a165709dfef}
+review_c - int_to_bin: embsec{int_to_bin_16190cfab1f3f28d}
+review_c - anagram: embsec{anagram_be85f39343c96b56
+flash_example: embsec{flash_example_7cdc4ad068b0b16f}
+uart_challenge: embsec{uart_challenge_7d82e834113656ec}

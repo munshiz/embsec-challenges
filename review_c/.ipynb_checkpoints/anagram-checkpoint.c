@@ -5,7 +5,6 @@
 uint8_t isAnagram (char* str_a, char* str_b) {
     int ind = 0;
     char characters[25];
-    
     for (int l = 0; l < 25; l++){
         characters[l] = 0;
     }
