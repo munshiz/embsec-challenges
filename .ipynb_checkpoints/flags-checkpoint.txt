@@ -10,3 +10,5 @@ protocol_lab - noise: embsec{noise_0cc41a165709dfef}
 review_c - int_to_bin: embsec{int_to_bin_16190cfab1f3f28d}
 review_c - anagram: embsec{anagram_be85f39343c96b56
 flash_example: embsec{flash_example_7cdc4ad068b0b16f}
+uart_challenge: embsec{uart_challenge_7d82e834113656ec}
+design - fw_protect: embsec{fw_protect_0542071438d70bc8}
