@@ -132,11 +132,7 @@ void load_firmware(void)
   nl(UART2);
 
   // TODO: Read the firmware size from the fw_update tool
-  rcv = uart_read(UART1, BLOCKING, &read);
-  size = (uint32_t)rcv;
-  rcv = uart_read(UART1, BLOCKING, &read);
-  size |= (uint32_t)rcv << 8;
-  
+
 
   // Compare to old version and abort if older (note special case for version 0).
   uint16_t old_version = *fw_version_address;
@@ -155,31 +151,10 @@ void load_firmware(void)
   uint32_t metadata = ((size & 0xFFFF) << 16) | (version & 0xFFFF);
   program_flash(METADATA_BASE, (uint8_t*)(&metadata), 4);
 
-  uart_write(UART1, OK); // Acknowledge the metadata. 
-  int 
+  uart_write(UART1, OK); // Acknowledge the metadata.
+
   // TODO: Load the firmware into flash memory at 0x10000
-  rcv = uart_read(UART1, BLOCKING, &read);
-  uint32_t packet_size = ((u_int32_t)rcv) << 8;
-  rcv = uart_read(UART1, BLOCKING, &read);
-  packet_size |= ((u_int32_t)rcv);
-  int counter = 0;
-  while(packet_size !- 0){
-      uint32_t packet_data = 0;
-      for(int i = 0; i < packet_size; i++){
-          rcv = uart_read(UART1, BLOCKING, &read);
-          packet_data = ((uint32_t)rcv)<<((packet_size - i)*8);
-          counter++;
-          if (counter == 1024){
-              a
-            
-          }
-      }
-  }
-    rcv = uart_read(UART1, BLOCKING, &read);
-    uint32_t packet_size = ((u_int32_t)rcv) << 8;
-    rcv = uart_read(UART1, BLOCKING, &read);
-    packet_size |= ((u_int32_t)rcv);
-   
+
 }
 
 
@@ -227,7 +202,7 @@ void boot_firmware(void)
   }
 
   // TODO: Print release message
-   char 
+
   // TODO: Boot the firmware
 
 }

@@ -11,7 +11,9 @@ protocol_lab - replay: embsec{replay_f1f630a24f31d3d2}
 review_c - int_to_bin: embsec{int_to_bin_16190cfab1f3f28d}
 review_c - anagram: embsec{anagram_be85f39343c96b56
 flash_example: embsec{flash_example_7cdc4ad068b0b16f}
-uart_challenge: embsec{uart_challenge_7d82e834113656ec}
+uart_c: embsec{uart_challenge_7d82e834113656ec}
 design - fw_protect: embsec{fw_protect_0542071438d70bc8}
 design - fw_unique: embsec{fw_update_7e761f16013a08c0}
-
+interrupt_challenge: embsec{interrupt_challenge_eb185e605f87a717}
+io_python - echo_int: embsec{echo_int_692aa2777036fd17}
+io_python - send_file: embsec{send_file_34841aa0f7ee5d26}
