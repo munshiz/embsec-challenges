@@ -1,0 +1,1793 @@
+ U.S. employed e
+, which was reus
+only specific va
+is made it impor
+one-to-one basis
+ grant some asym
+ly yields all pl
+se is absolutely
+d and convicted 
+r cryptographic 
+OTP itself has. 
+d for every code
+true randomness 
+ot a cryptograph
+it at the other 
+attack. Standard
+instantly and le
+lerant quantum c
+ritish Special O
+a message authen
+ sent. In this t
+f cryptographic 
+aper. Thus one O
+ly and securely 
+th lines of rand
+sonal electronic
+e cracked, but r
+agents one-time 
+ quickly encode 
+ernam for the XO
+ives absolutely 
+nd that the key 
+essage after mes
+an arbitrary sec
+ng confidentiali
+ message is sent
+ duplicate paper
+Bell Labs during
+me-pad is the op
+ form or format 
+challenging. Wit
+ first to descri
+ber of character
+ pad holders in 
+s of correspondi
+"A" is 0, "B" is
+ay making attack
+, US and UK inte
+in the plaintext
+e the pad, like 
+who knows that t
+side South Afric
+6 is taken in mo
+equals the size 
+ this message. E
+ve machine instr
+ German Stasi Sp
+use. Even those 
+rposes by around
+ge authenticatio
+his case was tha
+es: Truly random
+by real operativ
+ed whenever the 
+nal digital audi
+ipher", includin
+nd the 'Krogers'
+-time pads in Wo
+ration). A 4.7 G
+an foreign offic
+nfidentiality an
+of highly flamma
+buting very long
+otz), who were i
+ough often used 
+one-time pad has
+s one-time tape 
+sic recovery tha
+ncryption method
+ cryptanalysis w
+. One-time pads 
+cion. The one-ti
+in a different w
+e same length, a
+nment must be ab
+a serial number 
+ely distributed 
+next message". T
+dded noise to th
+ never reused an
+ of this vulnera
+ified. Suppose A
+d ciphers for co
+security has not
+row on one side 
+e key must be at
+owed some of the
+ger-term phase d
+puters have been
+nt. The Weimar R
+oduce the plaint
+pad system to pr
+oduction of ORIO
+n-trivial requir
+ed world of cryp
+secure because t
+y or partially d
+€”the number of 
+ing a dictionary
+orn off and dest
+very of the plai
+are suitable for
+hmetic. The meth
+ement. See pseud
+ situations wher
+ower and more sp
+ was employed fo
+w messages inclu
+e-time pads in V
+pads are "inform
+ter in practice 
+f the one-time p
+and replacing th
+ used to carry a
+y could fit in t
+l Forces used on
+le. The "pad" pa
+e-time pad used 
+were delivered i
+ a form of one-t
+are secure in th
+oses a significa
+ However, the on
+he British Speci
+s the many separ
+st as long as th
+ace to place in 
+a non-suspicious
+ For concealment
+ext instead of t
+ate the pads pro
+, again using mo
+, as opposed to 
+oth Alice and Bo
+ational Congress
+ messages up to 
+s often used to 
+send the plain t
+to another pad f
+euse and an atta
+ted, a vulnerabi
+ can be more vul
+m" can derive th
+uch as AES. Fina
+e solved before 
+age. Careful tre
+raffic. Leo Mark
+odulo 26. So, if
+fferent from mal
+nce the early 19
+duced predictabl
+event such attac
+mise during tran
+io direction fin
+ecialized. Secur
+ts high-level tr
+ 1882, the one-t
+end. The noise w
+ng the current t
+yption equipment
+s reports that t
+tchley Park. The
+to build a resis
+laintext directl
+he pads were not
+rfect secrecy, i
+overt communicat
+general purpose 
+ould allow inter
+are typically sl
+ U.S. Army and l
+ M is the same a
+applications. Fi
+ embedded in per
+ter the Cuban mi
+w it is a one-ti
+reak some of the
+ been proven. An
+od can be implem
+ing modular addi
+ation. True rand
+ing such systems
+truly random key
+letter a numeric
+that they can ef
+ on top of a pie
+codes to solve t
+red is far small
+al value, e.g., 
+his problem. A r
+s were able to b
+e signal at one 
+ them via their 
+fective because 
+size and have to
+rate notion was 
+ntroduction of t
+tion also propos
+ of a modern pub
+would either, an
+y exchanging mes
+ssile crisis, us
+siderable amount
+Canberraâ€“Mosco
+t to generate. T
+unique advantage
+ War II, though 
+ On July 22, 191
+wiping, copying 
+e generation and
+uction and is th
+, even though bo
+resented in the 
+s known to the o
+s that are known
+rs could be comb
+essage. The part
+thematically, to
+t famous exploit
+oduced, as one-t
+t). The attacker
+vert agents (MIC
+The key must be 
+al during that p
+ecause it requir
+sed only once; e
+with the Venona 
+ one-time pad va
+nd all are equal
+ was required to
+process, but in 
+ll Labs Technica
+9, U.S. Patent 1
+s, until the sum
+th known plainte
+e is "HELLO", th
+pad. The one-tim
+ding to them, an
+. The ciphertext
+ by nations for 
+aphy algorithms 
+an 25, then the 
+d and convicted 
+ Frank Miller in
+timum cryptosyst
+ being used for 
+f these currentl
+s (such as those
+magnifying glass
+used for numerou
+ced in fiscal ye
+nt in using one-
+r diplomatic com
+he original mess
+re not available
+lues, like numbe
+ons, that the on
+ng known, brute-
+nt and usually p
+is is normally a
+ adopt one-time 
+ pad traffic to 
+hat the encrypte
+or reuse of keys
+covers Alice's p
+e corresponding 
+The way to do th
+ messages to and
+implementations 
+e put this syste
+ might be useful
+ and many hardwa
+ be true for the
+U.S. Army Specia
+ome sources use 
+nel Rudolf Abel,
+ large networks 
+ater chief of th
+fficulties in co
+ made them impra
+ce's ciphertext:
+, a pickpocket s
+er with the carb
+h as variable le
+th are secret, e
+n) in size, leav
+emely long and i
+of every message
+ can then replac
+troyed after use
+and into the 195
+ions where posse
+hus preventing r
+led, stay home".
+e pad. Derived f
+r as a "Vernam c
+nvenient key seq
+ practical inter
+ne-time tape sys
+neration method 
+ivably still be 
+ems are hard, an
+t the one-time p
+ group. They had
+cryption techniq
+ters to encode p
+ that Moscow Cen
+e pads provide p
+ the German Fore
+n reverse (or, u
+he World War II 
+entially the enc
+e traffic analys
+eans short of ph
+ the other side 
+loop made a full
+could circle one
+ their agents. T
+on's proof of it
+ numerical value
+r, but not impos
+ necessary. If a
+ansport the pad 
+o the channel en
+key material is 
+" out of the cip
+generators that 
+ to authenticate
+m openly in 1949
+d to minimize te
+cil and paper on
+. One-time pads 
+n its security. 
+ffic until the i
+erefore very fas
+system for the B
+y. Despite Shann
+nvolved in break
+ign Office for i
+ ambiguity to th
+omes from early 
+ered that Canber
+and specialized,
+Vladimir Kotelni
+time-pad from pl
+ property he ter
+ded known Britis
+m was a cipher t
+d both secrecy a
+ntext and the ke
+r example, a pho
+break if the fol
+ches in diameter
+ne used to gener
+same order, and 
+ The serial numb
+ the pad was som
+find that the ke
+ used by Moscow 
+periodically (th
+rpose pads were 
+e known plaintex
+D.C.â€“Moscow me
+hematical proble
+they could never
+edetermined way 
+e used in supere
+le, ORION, had 5
+ used one-time p
+s much too diffi
+tic and military
+each message." E
+ May", or "use t
+n equally plausi
+itions are met: 
+b destroy the ke
+in the ciphertex
+nication between
+ber is larger th
+with a random se
+ding reports (CO
+ matching key pa
+ tapes used to e
+ implementation 
+g systems vulner
+ception and reco
+material must be
+radioactive emis
+0 rows of plaint
+to be much faste
+d to protect the
+nerable to foren
+generator (CSPRN
+f a plaintext me
+r patented in 19
+ithout the aid o
+n any informatio
+es, and baseball
+ndom letters (DI
+basic framework,
+t The key must b
+omputers. In the
+ems, where "the 
+ in 1957. Exploi
+dded together, m
+l encryption (fo
+re erased after 
+5 to produce. By
+nd their securit
+ way, but even s
+the character se
+a, if shredded i
+y random, as it 
+ually likely to 
+ly be broken for
+mber zero or hig
+ge and the same 
+are practical in
+nd random charac
+ts, must be pass
+r longer than, t
+s of the key nee
+s acted as couri
+y read from a pu
+be securely disp
+ also capable of
+the message to r
+y sheet immediat
+ar addition. The
+of espionage in 
+ is used only on
+f errors made in
+e entirely impra
+1970s, the U.S. 
+knowledge of the
+mall mistakes ca
+ of nations have
+discussion of di
+out some of the 
+g those based on
+-time pad cipher
+ was made by inf
+s To continue th
+cessful forgery 
+rift problems th
+ of information,
+ were introduced
+ to assign each 
+ or received, it
+rage media such 
+derstanding the 
+end the message 
+ late in the war
+ be broken if a 
+ in the 1950s, a
+e maximum possib
+printing both si
+ pads printed wi
+"XMCKL" would pr
+lic-key cryptosy
+xt, truly random
+ above, if a num
+security threat 
+ exchange of the
+ exactly the sam
+lete. One-time p
+n the transient 
+r message can on
+ented now as a s
+s the plaintext.
+lasted 166 minut
+ one-time pads a
+ensure that the 
+ch as integer fa
+19 (U.S. Patent 
+functions whose 
+headquarters of 
+nt security risk
+; no part of the
+These mixers rad
+ther content of 
+of the message. 
+00 rolls were pr
+urity bound (i.e
+xt, like part of
+ages were being 
+ be at least as 
+ate one-time pad
+ that a machine 
+end and removed 
+uld be done as f
+e. There is some
+as distributed t
+e page. The Germ
+with a one-time 
+at it could not 
+pads required go
+ctical for most 
+ecting against t
+istration, a dif
+useful in situat
+the time that it
+e), they achieve
+retical signific
+ecause, given a 
+epublic Diplomat
+ple below. Leo M
+ and Noreen. The
+lligence Service
+es and cost $4.5
+would be circled
+ no information 
+ the one-time pa
+d (OTP) is an en
+ key material be
+tions in most pr
+me pad, they can
+em with theoreti
+ character of th
+ipher" because s
+h strategies (th
+nd published the
+ the a priori pr
+ntext "LATER", a
+s outside South 
+necessarily that
+ured by one-time
+e transformation
+of structured ma
+ offered much ho
+ use came later,
+ only two person
+ In 1917, Gilber
+ive during World
+pplicability Des
+. Each page had 
+tance network in
+g some limitatio
+ical methods suc
+d to make the nu
+ systems. In add
+are of the numbe
+can be achieved 
+hen, each bit or
+ the first one-t
+ Shannon about t
+ult to solve, su
+nnot be used, si
+to remember. Sto
+ed and kept secu
+erfect secrecy i
+ in 1882 was the
+natural language
+"HELLO" to Bob. 
+ion of a one-tim
+ of the OTP in t
+cation system be
+ the same kind o
+rty of perfect s
+he two known ele
+ach stands a ver
+o players can be
+e required rando
+t must be proper
+that a powerful 
+present real cha
+oduced more than
+ 1, and so on.) 
+e pad is mimicke
+ modern ciphers,
+sibly so) data o
+mation theorist 
+ key and the mes
+at even a comput
+ course not trul
+ion) each code g
+Universal hashin
+N pads required 
+ber is negative,
+ficiently proces
+ssuming fault-to
+Soviet atom spie
+Moscow during WW
+e corresponding 
+ne that can run 
+hich can pose a 
+e extensive use 
+ one-time tape. 
+ar 1972. Special
+tication code ca
+he rest of the m
+ U.S. forces fou
+age to a cryptan
+and "one-time pa
+ll remain secure
+sions. In partic
+ange, because if
+If quantum compu
+are one-time pad
+ming conventiona
+ould be impossib
+ly likely. Thus,
+iated considerab
+meeting is cance
+d in about 1920.
+ation-theoretica
+med perfect secr
+ext "HELLO", but
+pad retains some
+ mixers to combi
+combine the plai
+ded to decrypt t
+ were used up fa
+ message). This 
+. One-time pads 
+., for any p > 0
+on face up, one 
+owever, computer
+ one-time pad is
+he suspected at 
+combined in a pr
+des-long effort 
+oduced some 1,66
+on (e.g., incine
+ral formats, a s
+ively the same r
+pher machines in
+yet it proved to
+by Claude Shanno
+dditional random
+ad systems for t
+is especially at
+llenges: secure 
+ogramming langua
+ make some use o
+generated, secur
+ions with agents
+r at solving som
+le, easily conce
+n 1941 in a repo
+, simple mathema
+in real-world sy
+of one-time tape
+ncrypted by comb
+revent this, suc
+ible to "decrypt
+olve few current
+ proved the theo
+ generators, may
+he secret number
+d they correspon
+ serious drawbac
+ (i.e., Morris a
+non proved, usin
+elated notion is
+re random number
+message will req
+tography, as for
+ntext is paired 
+MUS). General pu
+ed by the presen
+ished in 1963 af
+-time pad's mess
+ecrypted (a few 
+"Vernam cipher" 
+Africa and in-co
+laintext, the me
+ techniques to p
+lity random numb
+ there was no tr
+ this problem, a
+ms that are thou
+000 characters, 
+earlier name); i
+dom number gener
+untry operatives
+ed systems for t
+are so ubiquitou
+ or 5 digits) us
+-time pad of let
+ for the encrypt
+tems used by the
+e agencies for c
+ver be reused in
+cepted messages 
+nvented and late
+ce attacks. Tryi
+CIA and Special 
+, the sequence s
+he message being
+than the likelih
+so NSA switched 
+pted messages to
+the possibility 
+ pad books in a 
+was finally code
+e-time pad has a
+and with only pe
+ are also known 
+ote 1] This is b
+ular, one-time u
+h" for "Allied i
+, one-time pads 
+t Claude Shannon
+There were both 
+ decrypt the one
+uences more like
+ instance at Ble
+her based on tel
+but the problems
+tical operations
+computers to inf
+ormat, MEDEA, wi
+use. A Belgian a
+ition to providi
+ one side and th
+cret key (also r
+key material (th
+e to decrypt or 
+ired alphabets a
+in New York City
+secure environme
+y "TQURI" would 
+ob is thus "EQNV
+m was vulnerable
+ainst adversarie
+uters since it i
+tiny pads for co
+cost of lower de
+ because the key
+of a one-time pr
+a character on a
+ormation theoris
+ty, secret numbe
+Indeed, nearly a
+leting a word or
+dvance, as for i
+ce of German tro
+istribution have
+fer to any addit
+er to bring in t
+wn in the highly
+quence on the ke
+ks, as can class
+e sheet for the 
+k and then using
+time". See data 
+used in special 
+computational po
+table for perfor
+t overlaps a sho
+ keys, and one-t
+0s, three German
+ continue to rem
+o both. Alice ch
+age whatsoever w
+and even Cuba us
+ 1972, only 55,0
+ versions of one
+o, cryptanalysis
+ burned after us
+eplaced by rotor
+age. The securit
+perencryption). 
+tween ANC leader
+sefully, partial
+or Russian) then
+pe of cryptanaly
+e corresponding 
+d by stream ciph
+ one-time pad by
+9. Properly used
+ext alphabets on
+more sensitive e
+the pad will be 
+nd reliable comm
+aled paper, a sh
+udolf Schauffler
+able to intercep
+Because the key 
+s that possessin
+eory considerati
+ practical probl
+In cryptography,
+al Operations Ex
+tractive on comp
+thousand out of 
+s to the other. 
+ a one-time pad.
+ey distribution 
+enerator and ran
+no additional in
+irst noticed by 
+e ciphertext C g
+ly remains class
+ example of how 
+nd a supply of p
+ill not produce 
+n and proved, ma
+me, she would fi
+n contrast to co
+graphic software
+m into operation
+o groups of numb
+est. In some hyp
+, one-time pads 
+d a stream ciphe
+ne-time pad exch
+ tape was a loop
+age situations, 
+ng a different k
+y the parts of t
+rs.:pp. 39â€“44 
+ists using actua
+her. Thus Bob re
+the use of a one
+; the amount of 
+actually random,
+ be sent securel
+ining it with th
+ds in their poss
+t three thirty p
+ften issued its 
+one-time pad). T
+y tape could be 
+ "mission comple
+systems like 5-U
+y at present. Su
+ptography by the
+r keyed by book 
+s is a little di
+ 12th sheet on 1
+n a classified r
+f information, m
+ it must be extr
+ GEE. GEE was in
+aintext. Even wi
+of implementing 
+graphy. Historic
+0s, the U.S. mad
+ormation about t
+ntexts are in a 
+y of manual one-
+on shift registe
+ including more 
+om number genera
+IDE had been an 
+subtraction of 2
+m and that, if s
+s on the disk we
+is the one-time 
+ndomâ€”the machi
+uction to crypto
+imply means that
+ World War II, c
+ Each line had s
+ime pad of espio
+ by heuristic cr
+ being recovered
+ance of the one-
+hertext any mess
+T Corporation) i
+using a code-boo
+ost-quantum cryp
+1941 and early 1
+l reasons in two
+keys with effect
+per pad system. 
+full of random d
+s, or a star net
+is by measuring 
+sit (for example
+lues, which must
+t. It is, howeve
+starting synchro
+om in the early 
+rach Machine was
+ipher, the syste
+es up as the squ
+e sometimes prin
+project. Key dis
+circumstances si
+ poor Soviet cry
+Cuban warehouse.
+ds in the form o
+pposition, and i
+ecuring telegrap
+ietnam. By using
+ted onto sheets 
+imple list of ra
+ther discussion 
+lity code-named 
+ using one time 
+mm2 (0.0016 sq i
+e for a cipher s
+were converted t
+ Soviet one-time
+G). Frank Miller
+00s. In 1923, it
+were employed by
+ can reduce it t
+bove, suppose Ev
+f large shellac 
+is: In 1944â€“19
+nd me tomorrow a
+ while others re
+pted text and th
+tline between Mo
+cult for humans 
+ the technique i
+nd Lona Cohen), 
+be used for secu
+ive stream ciphe
+y ciphers are wi
+tography for fur
+stem, and such m
+essages made pub
+s result was pub
+lic for politica
+The OTP is theor
+ny other text of
+ne-time pads wer
+ime pad was re-i
+d" synonymously,
+ In 1955, NSA pr
+roblem. True ran
+ng message and k
+ transported fro
+dorandom number 
+ key material is
+bility occurred 
+l lack the perfe
+g provides a way
+ryption key, but
+ng World War II 
+tre personnel we
+aintexts, all eq
+ed teleprinters 
+he electronic ci
+records that wer
+ final discovery
+ Soviet Union to
+produced in seve
+ one-time pad is
+d with quantum k
+ops just outside
+-time pad system
+s being transmit
+ has shown that 
+f letters were s
+y). However, onc
+ical methods of 
+ers (typically 4
+xamples included
+ts original form
+ood of compromis
+kov had independ
+with one letter 
+t on any other p
+ined with (usual
+ck against the c
+d system used by
+y of the one-tim
+rs. A page would
+. This effect, f
+ is often no poi
+ least into the 
+nding letter one
+an one-time pads
+ overseas agents
+some mental arit
+lectromechanical
+used, only some 
+rocedure that ca
+s completely des
+rtâ€”hence "one-
+ad; his results 
+is sense even ag
+e that text by a
+ch roll was 8 in
+. Here the key i
+for use with its
+y's Signals Inte
+ was able to sol
+t produced a con
+uments, this all
+y is not conside
+atment to make s
+ with the fact t
+lmost always eas
+ notion of secur
+ Starting in 198
+pite its problem
+the system witho
+8, the African N
+ters. The NSA al
+ntext), output (
+e a very long pa
+lice wishes to s
+ntext of message
+ions "go past" Z
+at arose and wer
+ient would rever
+ould be sent wit
+his method is of
+ provides no inf
+s, which is a no
+arks describes i
+pher based KW-26
+ge libraries are
+e of the difficu
+plaintext it pro
+ecy; that is, th
+lligence agencie
+ch size that the
+m the ciphertext
+ a secure enviro
+ooses the approp
+e-time pads more
+Assume two pads 
+ssion (the carri
+e-time pad value
+ted", "Bravo" fo
+ text is identic
+s as input (plai
+nage used actual
+he material on t
+ the plaintext i
+arp pencil, and 
+nization and lon
+d has been secur
+it is not taken 
+nvasion of Frenc
+e other side. By
+y material must 
+les include Colo
+ciphertext) and 
+es and delivered
+ers. The one-tim
+ollers. Analysis
+, contained 100,
+ secrecy. The on
+ was electrical.
+munications by t
+e plaintext is e
+ the portion tha
+y Agency (NSA) p
+nventional symme
+e 1920s (ARCOS c
+al or nearly so;
+used properly, s
+ng used codes an
+ngs of the ciphe
+ if the computat
+e two parties in
+he key correspon
+ a cryptographic
+. For the best o
+e intercepts Ali
+ecurely by any m
+y chosen additiv
+uld make existin
+ cycle. One-time
+raffic analysis.
+tape that East G
+orrectly, preven
+nts with perfect
+equirements as O
+ used just twice
+he key material 
+ then destroyed.
+ using data file
+embassy in the o
+er for Morse cod
+ then 26 is adde
+thousand). The o
+ who was arreste
+ be used as a wo
+reverse, to obta
+were either full
+nce an attacker 
+s subtracted fro
+g a computer sui
+a. Random number
+of communicantsâ
+ic energy that c
+ation Vula, a su
+II as a result o
+s to combine the
+ nuclear launch 
+l Journal in 194
+ OTP is immune e
+ one can simply 
+his is less of a
+completely rando
+h Northern Afric
+explanation need
+gorithms use com
+o a running key 
+In this example,
+orandom number g
+bers (CALYPSO), 
+roup before tran
+aves no ash. The
+ she would also 
+not known whethe
+ The next develo
+note 2] Given pe
+ devices such as
+recognized that 
+rom his Vernam c
+ection, some pub
+-time pad values
+ks in practice b
+dular arithmetic
+ed to send encry
+de a message and
+e term "Vernam c
+ANA) or just num
+ was electricall
+ Russian copulat
+r of users freel
+ one-time pad ke
+ity first develo
+ime system. It a
+ had infinite ti
+ach letter from 
+codes of the pad
+ce, never become
+while a person w
+pads as part of 
+so built automat
+separate randoml
+age up to 50 cha
+ hash ensures th
+B DVD-R full of 
+es over 4 megabi
+be the actual pl
+ cryptographers 
+om number groups
+equires the use 
+ecutive used one
+ of the word. Un
+e pad is only as
+t shell. To incr
+rt of the name c
+ease security, o
+ill be impossibl
+e from the pad. 
+the United Kingd
+was the same one
+n lead to succes
+ms depend on mat
+ct security the 
+lly secure" in t
+sage, is to be p
+echnique, a plai
+to the key negot
+e problem with t
+e length, such a
+ssage "HELLO". B
+ting any reuse i
+he system was th
+ven to brute-for
+ of their sizes 
+y combined with 
+crypted" in any 
+ that is used on
+ase), appear to 
+mmonly associate
+tiny sheets of "
+ placing a sheet
+y as in the exam
+is unable to gai
+ was already kno
+ty, circuits sec
+petition, or som
+ne suggestion is
+eriod. This deca
+truly random seq
+atic establishme
+om two separate 
+he selected shee
+defect in the ge
+ecurely issued t
+ unlike keys for
+ data from the p
+lt problems that
+omputers. Distri
+ Moscow in late 
+ain secret and a
+SIGSALY was also
+etimes so small 
+. At the same ti
+truly random. Th
+ical one-time pa
+-based one-time 
+affic, codenamed
+ysical destructi
+ding /dev/random
+cally perfect se
+ The attacker's 
+uences they equa
+ssion of plainte
+nto particles 1 
+the plaintext.[n
+affic, thus prot
+yptography and p
+ce from the encr
+en the coding wo
+ one-time pad ke
+ fashion. This s
+one-time-pad dat
+es a solution to
+ly reverse) thes
+o stream cipher 
+r there can be a
+n unique pairs. 
+ot attract suspi
+for Washington, 
+ncode its messag
+,310,719 was iss
+unications. Duri
+(Werner Kunze, R
+converted to nit
+ed his results i
+ded attacker's l
+ also been prove
+ One-time pads s
+.g., "Alpha" for
+he "centralized 
+c devices based 
+ sufficiently ra
+emain valid. Thi
+he pad (as both 
+sion of Grenada,
+as thumb drives,
+the system could
+ogy. Each charac
+ secure as the s
+ British, with m
+ecrecy must use 
+ the ciphertext)
+(It is common, b
+en 'depth' of re
+ure that the one
+942, and they pr
+dely available a
+can be the same 
+ibuted as a pad 
+ctical without c
+mpletely erasing
+code traffic bet
+1960s. Both were
+othetical espion
+the field". Duri
+one-time tape ci
+ machines such a
+er of the page w
+le to depart fro
+lowing four cond
+ coaches)[citati
+ the message bei
+ "EQNVZ". If Eve
+or the codes, wo
+several hundred 
+h the encoded me
+0,000 rolls of o
+riate unused pag
+will become obso
+re produced for 
+e output. In 194
+n about the part
+tric encryption,
+Forces units so 
+obability of a p
+th 25 rows of pa
+ substitution an
+art. Quantum com
+ficult process, 
+d that if the ke
+ne bits from the
+lly do not follo
+ XOR operation i
+. A few British 
+d a mathematical
+s SIGTOT, and la
+r incriminating 
+For added securi
+who were arreste
+ key is dependen
+ata), it can be 
+rk sheet to enco
+ The breaking of
+e pad can be a p
+tarts again at A
+ing ciphertext w
+ges to be broken
+ found with phys
+gins with "XMCKL
+ably be erased s
+h possibly a few
+ssage M given th
+ but this uses a
+re disposed of c
+n, the lack of w
+computer era, an
+ by the carbon p
+t is the key for
+key material tha
+ith enough qubit
+ could easily be
+ts of (admittedl
+xt letters on th
+p by an adversar
+and the correspo
+royed after use.
+edia cannot reli
+ generation func
+ely after use, t
+ic encryption al
+ich must be main
+ will reveal onl
+on needed] are n
+CO and SIGTOT as
+plex patterns of
+a captain in the
+stems. For examp
+ic one-time pad 
+ (ANC) used disk
+ use it. The KGB
+s future message
+ work by hand, w
+ng the 1983 Inva
+ whole or in par
+burden compared 
+ormation securit
+perations Execut
+ encrypted messa
+e example from a
+s known. See als
+makes certain co
+ byte length, wh
+ed] If both plai
+be the one-time 
+ letter in each 
+protected by a c
+than a little ab
+ the one-time co
+s usually a nati
+ least as long a
+ instances in th
+rocellulose, whi
+ems in cryptogra
+bit or character
+r "mission faile
+ one copy of the
+e manufactured i
+ble message: In 
+the key. Attempt
+R operation used
+m sequence). The
+metric encryptio
+ngth padding and
+ape key. Joseph 
+ere is no proof 
+ ambiguities. Of
+, Vernam's syste
+time pad system.
+Shor and others 
+ The key must ne
+overcomes this p
+force attacks ca
+ally secure pseu
+information, oft
+ut not required,
+y at some distan
+ime-pad is one o
+ directly from t
+ble nitrocellulo
+ Shannon deliver
+" and the messag
+ssages. Combined
+osed of after us
+y elements, and 
+ly once, a ciphe
+ recently. Examp
+dular arithmetic
+) will usually n
+y had to reveal 
+er, and public k
+ a small percent
+ipher. The KGB o
+ and Erich Langl
+needed to manage
+le, an attacker 
+ikelihood of suc
+e corresponding 
+y his copy of th
+ve a one-time pa
+entional symmetr
+ breakthrough co
+-like codebook. 
+f generated and 
+omehow previousl
+etically secure.
+or where trustwo
+Diplomats had lo
+pseudorandom, on
+regular resupply
+tained for any o
+entication As tr
+d it could conce
+ued to Gilbert V
+y material scale
+ly modular addit
+y high chance of
+remainder after 
+1,310,719) a cip
+ would be more d
+d communicate fr
+s possible readi
+ same size as, o
+ly than others, 
+t that will allo
+wer. Claude Shan
+Z". Bob uses the
+ one or both par
+ tape ran contin
+nvented in 1917.
+distributing the
+produce the plai
+ shown by Peter 
+ch burns almost 
+ communication, 
+crecy. The one-t
+laintext message
+National Securit
+ using the metho
+tle more by comp
+g information th
+des in exact reg
+hat some of the 
+pment was the pa
+formation about 
+essage with a ke
+KEY MOUSE), and 
+In the early 192
+e, to ensure the
+. The pad is ess
+ used pads of su
+n be used along 
+ Later Vula adde
+of paper contain
+ pads of minuscu
+hat combined a m
+deâ€”a signal, u
+ne time tape. Ea
+ers are difficul
+or decode a mess
+d, or in a walnu
+rthy computers a
+rter message, pl
+s without knowin
+and eight lines.
+ollows: If a num
+reasonable sense
+be computed by h
+ In addition, th
+irly quickly. On
+yptanalysis, wit
+ut a computer. A
+me, Soviet infor
+, a large enough
+ad, and removes 
+where the key ma
+ from individual
+generated by typ
+ modern world, h
+ as part of Oper
+t Vernam (of AT&
+s have been used
+borgne recognize
+ limited to this
+he German diplom
+of the pad. Quan
+h government doc
+remanence for a 
+lly, the effort 
+red a major worr
+rst described by
+and securely sto
+ messages sent. 
+e-time-pad can b
+ with 86,000 one
+al uses One-time
+of paper, allowi
+ix 5-digit numbe
+ncryption. The a
+ersist until the
+ same key materi
+ey, and there is
+rs, change with 
+sages. For commu
+eprinter technol
+ther country. A 
+discrete logarit
+ of secure key d
+ll other high qu
+oftware program,
+d each person ge
+is. However, suc
+lic key cryptogr
+ course, a longe
+ message and the
+ssion of a compu
+ently proved abs
+e-shared key the
+a secure communi
+le electromagnet
+ Morse code with
+ationally unboun
+ computer media.
+sage using modul
+ be generally ef
+nerates ciphers 
+s. Even so, only
+d transpositions
+lly random, then
+s, the one-time-
+r, difficult to 
+that these probl
+he same time. Hi
+y in use, it is 
+irline stewardes
+intelligence tra
+n each particle.
+ic Service began
+d on a strictly 
+d message (i.e.,
+alyst (except th
+pad system for s
+ters are built w
+n that any ciphe
+f a computer. Th
+ue that cannot b
+he next availabl
+ould be picked u
+encrypted first 
+pads for some pu
+roduced a variet
+age of the inter
+ Soviet espionag
+e kept completel
+thematical rules
+ys is inconvenie
+lished in the Be
+ped during WWII 
+n whole or in pa
+sful cryptanalys
+handling/transmi
+sis. Beginning i
+ession. A number
+what NSA called 
+nslated into any
+ctorization and 
+leability where 
+have induced the
+tribution Becaus
+lgorithm most co
+s "three thirty 
+all shared secre
+is a very strong
+ime tapes were r
+rld War II to en
+named VENONA (BR
+e number was use
+of the ramificat
+ (e.g., English 
+nventing such a 
+ing any message 
+time padding, as
+s needed as they
+rt that apparent
+ problem. The ke
+ey cryptography 
+rranged for in a
+g the key used d
+5, the US discov
+ter in a message
+f the most pract
+ pads have been 
+olute security o
+ compartmentaliz
+tects (see data 
+ by 1923. A sepa
+ri probability o
+aper chemically 
+nstance "use the
+s, simply by usi
+random cipher te
+nched tape. In i
+o recognized and
+raâ€“Moscow mess
+w Eve to choose 
+he message conta
+Mauborgne (then 
+pads printed on 
+ts While one-tim
+y hard to recove
+n the late 1940s
+ cryptanalytic p
+ely sent (e.g., 
+ton D.C., establ
+legraph costs. F
+ments (the encry
+racters long. Pr
+tion. The result
+hy. The next one
+he palm of a han
+h as the use of 
+ and agent contr
+pared the keying
+nd continuous wa
+"pro forma" syst
+me tape system. 
+s the a posterio
+s very badly for
+-time pads produ
+ght to be diffic
+ to be much grea
+ punched paper t
+ generating and 
+ce of carbon pap
+ommercial one-ti
+se, so that they
+ in the 1940s wh
+y secret. It has
+iation protocols
+voice scrambler 
+smission, with t
+work topology, t
+45, the U.S. Arm
+re, and the pad 
+ins "meet jane a
+uring encryption
+ing identical ra
+The NSA describe
+: Similar to the
+a computer disk 
+rtext can be tra
+ of new disks wa
+ter by electroni
+physically is a 
+. The auxiliary 
+ermany, Russia, 
+ not suitable fo
+ifficult. Togeth
+ecurity of the o
+ phrase. The mos
+ at cryptanalysi
+the one-time pad
+hout copies of t
+ey letters are a
+ DVD-Rs or perso
+uire additional 
+remanence). Auth
+t neither countr
+airs of one-time
+o another, and p
+ng all keys simp
+e risk of compro
+phy. High qualit
+rds and phrases 
+art of an introd
+long as the mess
+able to attack.[
+Each country pre
+critical diploma
+eferred to as a 
+ccessful effort 
+ads, however, wi
+. See quantum cr
+messages and rad
+ 1930. KGB spies
+oding of short m
+rtext. One-time 
+o the need to tr
+ith the same num
+ plaintext of th
+eport in 1945, a
+ns to error-corr
+is was called su
+ when Joseph Mau
+s, and overcomin
+. Asymmetric enc
+domness High-qua
+clude the Rockex
+TP keys. Digital
+ions of quantum 
+s with infinite 
+ because it can 
+ normal cryptogr
+l typewriters. T
+ime tape system.
+among the variou
+us perhaps a lit
+ter is illegal o
+ to be sent to B
+terial was distr
+cipher.[further 
+m one another an
+re somewhat rush
+tum key distribu
+has to be at lea
+, realized that 
+these pads were 
+pads designed fo
+aditionally used
+is less than p),
+ from the pad us
+d" or even "Torc
+r with the prope
+e message, there
+essages, at the 
+m one endpoint t
+heir sensitive t
+ch ciphers are a
+scow and Washing
+s being changed 
+ually, even when
+ad value and kno
+ve radio transmi
+he random number
+ mobile phones) 
+ier to employ th
+er they invented
+tant in the pre-
+hms. However, th
+se the procedure
+op sheet to be t
+fact, it is poss
+aphic use, inclu
+ be used. The ho
+in any significa
+flash paper"â€”p
+a" cannot be "de
+RION sheet could
+ciphertext. Conv
+le length of the
+ purpose pads we
+encryption where
+ndom sequences o
+ an attacker is 
+ very large one-
+nt sense. NSA At
+e Signal Corps) 
+ality ciphers ar
+he pad disks. A 
+re data storage.
+ncil and paper. 
+ryption algorith
+w the same kind 
+ties must do all
+ion, but they al
+parts of a softw
+concealed crypto
+y produced and s
+ key material. O
+ and then destro
+time pads, both 
+y tape were tota
+tors exist, but 
+s security, the 
+provide no messa
+ween its offices
+e pad) is likely
+to have used pen
+ classical one-t
+r more rapid enc
+nsity. One examp
+ssage. The recip
+ime-only use of 
