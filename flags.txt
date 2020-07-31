@@ -17,3 +17,8 @@ design - fw_unique: embsec{fw_update_7e761f16013a08c0}
 interrupt_challenge: embsec{interrupt_challenge_eb185e605f87a717}
 io_python - echo_int: embsec{echo_int_692aa2777036fd17}
 io_python - send_file: embsec{send_file_34841aa0f7ee5d26}
+aes_python - aes_decrypt: embsec{aes_decrypt_75b267714aebf7d9}
+hmac_python - hmac_generate: embsec{hmac_generate_e3306a3b838da454}
+hmac_python - hmac_validate: 
+one_time_pad - xor: embsec{xor_6e4bc0c3938ff8b1}
+one_time_pad - two_time_pad: embsec{two_time_pad_fd134725addef808}
